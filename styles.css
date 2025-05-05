@@ -11,11 +11,11 @@ section > header > h2{
 }
 
 
-section h2{
+/* section h2{
     font-size: 30px;
     font-weight: 700;
     color: rgb(129, 8, 8);
-}
+} */
 
 h2 ~ p {
     background-color:  rgb(255, 183, 183);
